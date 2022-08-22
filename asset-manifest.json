@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swiper/static/css/main.8072c9c4.css",
+    "main.js": "/swiper/static/js/main.14fd3b48.js",
+    "static/js/787.17b8604e.chunk.js": "/swiper/static/js/787.17b8604e.chunk.js",
+    "index.html": "/swiper/index.html",
+    "main.8072c9c4.css.map": "/swiper/static/css/main.8072c9c4.css.map",
+    "main.14fd3b48.js.map": "/swiper/static/js/main.14fd3b48.js.map",
+    "787.17b8604e.chunk.js.map": "/swiper/static/js/787.17b8604e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8072c9c4.css",
+    "static/js/main.14fd3b48.js"
+  ]
+}
